@@ -42,7 +42,7 @@ paths ={"chemistry" : "https://zoom.us/j/2018700227?pwd=Y253bnBkVUVOVytYcFhwRU85
 
 contact  = ["Ishan", "ishan", "mom", "Mom", "dad", "Dad", "amresh sir" ," Amresh sir", "mamu", "mamu", "myself"]
 
-contact_with_email  = {"mamu" : "nickadlakha@gmail.com","myself" : "snehashish.laskar@sahyadrischool.org", "ovee": "ovee.khemani@sahyadrischool.org", "ishan" : "ishan.kashyap@sahyadrischool.org", "dad":"sumanlaskar1@gmail.com", "Dad" : "sumanlaskar1@gmail.com"}
+contact_with_email  = {"mamu" : "nickadlakha@gmail.com","myself" : "snehashish.laskar@sahyadrischool.org",  "ishan" : "ishan.kashyap@sahyadrischool.org", "dad":"sumanlaskar1@gmail.com", "Dad" : "sumanlaskar1@gmail.com"}
 
 
 def talk(text):
